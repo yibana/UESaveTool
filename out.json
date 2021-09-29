@@ -1,0 +1,395 @@
+{
+  "Header": {
+    "Format": "GVAS",
+    "SaveGameVersion": 2,
+    "PackageVersion": 518,
+    "EngineVersion": {
+      "Major": 4,
+      "Minor": 24,
+      "Patch": 3,
+      "Build": 0,
+      "BuildId": "++UE4+Release-4.24"
+    },
+    "CustomFormatVersion": 3,
+    "CustomFormatData": {
+      "Count": 42,
+      "Entries": [
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "11310aed-4d61-2e55-a39a-67af2c08a1c5",
+          "Value": 17
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "fb26e412-4b4d-1f15-0a55-7293702f1d96",
+          "Value": 3
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "9c54d522-4fbe-a826-4607-2194d082b461",
+          "Value": 28
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "b0d832e4-4f0d-1f89-b77e-cfaca24afd36",
+          "Value": 10
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "e1c64328-4d53-a22c-868e-6ca38cbd1764",
+          "Value": 0
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "375ec13c-48fb-06e4-f084-00b57e712a26",
+          "Value": 3
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "e4b068ed-42e9-f494-0bda-31a241bb462e",
+          "Value": 37
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "cffc743f-4480-43b0-df14-919373201d17",
+          "Value": 36
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "b02b49b5-44e9-bb20-b732-04a36003e452",
+          "Value": 2
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "a4e4105c-49b5-59a1-c440-c5a7eedf7e54",
+          "Value": 0
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "39c831c9-47dc-5ae6-179c-449a7c8e1c3e",
+          "Value": 0
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "78f01b33-4f98-ebea-ea84-b4b9a25ab9cc",
+          "Value": 2
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "6631380f-43e0-2d4d-27cf-09805aa95669",
+          "Value": 0
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "12f88b9f-4afc-8875-0cd9-7ca629bd3a38",
+          "Value": 36
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "7b5ae74c-4c10-d270-9857-58a95a2a210b",
+          "Value": 11
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "d7296918-4bdd-1dd6-a864-e29d8438c13c",
+          "Value": 2
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "c2a15278-4afe-bfe7-ff90-176c55f71d53",
+          "Value": 1
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "6eaca3d4-4cc1-40ec-ed8b-86b7c58f4209",
+          "Value": 3
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "29e575dd-4627-e0a3-76d2-109deadc2c23",
+          "Value": 17
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "af43a65d-4947-7fd3-8e3e-739805bbc1d9",
+          "Value": 2
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "6b266cec-4b8f-1ec7-d9e4-0ba307fc4209",
+          "Value": 1
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "0df73d61-47ea-a23f-e989-27b79a49410c",
+          "Value": 1
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "601d1886-4f84-ac64-ded3-16aad6c7ea0d",
+          "Value": 31
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "9dffbcd6-0158-494f-8212-21e288a8923c",
+          "Value": 8
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "f2aed0ac-416f-9afe-7faa-6486fcd626fa",
+          "Value": 1
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "174f1f0b-45a5-b4c6-e82e-3fb17d91fbd0",
+          "Value": 9
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "35f94a83-406c-e258-f509-18a37c241096",
+          "Value": 8
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "b2e18506-cfc2-4273-bbf4-4ea507ba8b75",
+          "Value": 1
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "430c4d19-4970-7154-699b-6987e5b090df",
+          "Value": 14
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "aafe32bd-4c14-5395-255e-6ab6ddd13210",
+          "Value": 1
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "23afe18e-4e58-4ce1-52c2-618db7be53b9",
+          "Value": 11
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "a462b7ea-4e3a-f499-1fec-c199b2e12482",
+          "Value": 2
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "2eb5fdbd-4d10-01ac-8ff3-3681daa59333",
+          "Value": 5
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "509d354f-492f-f6e6-b285-49a71c633c07",
+          "Value": 0
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "717f9ee7-493a-e9b0-3291-b3880781381b",
+          "Value": 6
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "4a56eb40-11dc-10f5-7e34-d392e76ac9b2",
+          "Value": 2
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "d78a4a00-4697-e858-b519-a8bab4467d48",
+          "Value": 17
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "5579f886-4c1f-933a-7b08-ba832fb96163",
+          "Value": 1
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "612fbe52-400b-da53-914f-0d917c85b19f",
+          "Value": 1
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "a4237a36-41c9-caea-f818-a28ff31b6858",
+          "Value": 4
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "804e3f75-4b49-7088-068c-d6a4dcb67e3c",
+          "Value": 5
+        },
+        {
+          "Name": "",
+          "Type": "Guid",
+          "Id": "fb680af2-4ba3-59ef-b519-a8ba3d44c873",
+          "Value": 2
+        }
+      ]
+    },
+    "SaveGameType": "/Script/MirMobile.AccountLocalSave"
+  },
+  "Properties": {
+    "Name": "/Script/MirMobile.AccountLocalSave",
+    "Type": "Tuple",
+    "Properties": [
+      {
+        "Name": "AccountLoginInfo",
+        "Type": "StructProperty",
+        "StoredPropertyType": "AccountLoginInfo",
+        "Properties": [
+          {
+            "Name": "AccountLoginInfo",
+            "Type": "Tuple",
+            "Properties": [
+              {
+                "Name": "GuestID",
+                "Type": "StrProperty",
+                "Property": "9sxt-abdh-wkzn-xdcb-lUmn3rK3"
+              },
+              {
+                "Name": "TokenID",
+                "Type": "StrProperty",
+                "Property": "1222f4f239fb5ba02af35efc092e5c082d4310c4359762219fa74843d0b2263a"
+              },
+              {
+                "Name": "LinkID",
+                "Type": "StrProperty",
+                "Property": "lUmn3rK3"
+              },
+              {
+                "Name": "BuildName",
+                "Type": "StrProperty",
+                "Property": "GlobalBetaBuild"
+              },
+              {
+                "Name": "ChannelType",
+                "Type": "IntProperty",
+                "Property": [
+                  0,
+                  4
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "m_mapIntSaveData",
+        "Type": "MapProperty",
+        "Property": {
+          "G_MasterVolume": 90,
+          "G_Simple": 3,
+          "G_ScreenEffect": 2,
+          "G_Texture": 1,
+          "G_Resolution": 2,
+          "G_FrameSpeed": 2,
+          "G_Visual": 2,
+          "G_SkillEffect": 2,
+          "G_BGMVolume": 70,
+          "G_SFXVolume": 80,
+          "G_VoiceVolume": 90,
+          "G_AmbientVolume": 70,
+          "G_StageSectorVisible": 1,
+          "G_MiniMap": 1,
+          "G_GatherPopUp": 1,
+          "G_ChattingRenderOpacity": 5,
+          "G_Shadow": 2,
+          "G_Pet": 2,
+          "G_PKAlarm": 1,
+          "G_FastUnsealingStart": 1,
+          "G_HUDAutoResizing": 0,
+          "G_PingVisible": 1
+        },
+        "KeyType": "NameProperty",
+        "ValueType": "IntProperty",
+        "MapSize": 22
+      },
+      {
+        "Name": "m_CustomizingAutoSaveData",
+        "Type": "MapProperty",
+        "Property": {
+          "5": false
+        },
+        "KeyType": "IntProperty",
+        "ValueType": "BoolProperty",
+        "MapSize": 1
+      },
+      {
+        "Name": "m_FrontBannerInitDay",
+        "Type": "IntProperty",
+        "Property": [
+          0,
+          29
+        ]
+      },
+      {
+        "Name": "m_eLanguage",
+        "Type": "EnumProperty",
+        "EnumType": "ELanguage",
+        "Property": "ELanguage::CHS"
+      },
+      {
+        "Name": "m_bInitLanguage",
+        "Type": "BoolProperty",
+        "Property": true
+      },
+      {
+        "Name": "m_strRegionCode",
+        "Type": "StrProperty",
+        "Property": "ASIA1"
+      },
+      {
+        "Name": "m_bInitRegionCode",
+        "Type": "BoolProperty",
+        "Property": true
+      },
+      {
+        "Name": "m_strRecommendRegionCode",
+        "Type": "StrProperty",
+        "Property": "ASIA"
+      }
+    ]
+  }
+}
