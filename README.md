@@ -1,3 +1,7 @@
+# 补充说明
+这个版本是修改 https://github.com/ch1pset/UESaveTool 之后的版本,加入MapProperty结构的解析,方法可能不是很规范,可以成功解析UE4+Release-4.24生成的GVAS格式
+,希望对你们有用.
+捐助eth以太链:0xEC9F382A274Bf8a72DB17446DAb858cA976d4208
 # UESaveTool
 A Node.js implementation for deserializing and converting GVAS/.sav files to JSON and vice-versa.
 
